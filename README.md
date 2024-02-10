@@ -1,3 +1,6 @@
+![Alt text](permfps.jpg)
+
+
 # perm.fps
 
 Ths first ever server-side JavaScript code is created that allows you to update game settings, specifically the maximum FPS, through HTTP requests. It utilizes Node.js with Express.js and node-ffi to interact with a hypothetical game library.
