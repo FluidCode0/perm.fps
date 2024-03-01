@@ -3,15 +3,16 @@
 
 # perm.fps
 
-Ths first ever server-side JavaScript code is created that allows you to update game settings, specifically the maximum FPS, through HTTP requests. It utilizes Node.js with Express.js and node-ffi to interact with a hypothetical game library.
+
+Ths first ever server-side JavaScript code is created that allows you to update game settings, specifically the maximum FPS, through HTTP requests. It utilizes Node.js with Express.js and node-ffi to interact with a hypothetical game library and **it's licensed under the MIT License.**
 
 ## Requirements
 
-- A Laptop or PC
-- Node.js
-- Express.js
-- node-ffi
-- ref-struct
+*- A Laptop or PC*
+*- Node.js*
+*- Express.js*
+*- node-ffi*
+*- ref-struct*
 
 ## Installation
 
