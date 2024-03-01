@@ -4,7 +4,10 @@
 # perm.fps
 
 
-Ths first ever server-side JavaScript code is created that allows you to update game settings, specifically the maximum FPS, through HTTP requests. It utilizes Node.js with Express.js and node-ffi to interact with a hypothetical game library and **it's licensed under the MIT License.**
+Ths first ever server-side JavaScript code is created that allows you to update game settings, specifically the maximum FPS, through HTTP requests. It utilizes Node.js with Express.js and node-ffi to interact with a hypothetical game library.
+
+## MIT License
+**it's licensed under the MIT License.**
 
 ## Requirements
 
@@ -17,9 +20,10 @@ Ths first ever server-side JavaScript code is created that allows you to update 
 ## Installation
 
 1. Clone this repository:
-2. Input the current file into your laptop or PC.
-3. Change your FPS to max or to anything you want.
-4. Give the file be ran automatically with administration.
+2. Input the current file named **fps changer.js** into your laptop or PC.
+3. Add it into your **VSCode** or into your shortcuts/apps.
+4. Change your FPS to max or to anything you want.
+5. Give the file be ran automatically with administration.
 
 ## Finish:
 the code should look like this:
